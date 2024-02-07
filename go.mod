@@ -1,4 +1,4 @@
-module github.com/FPNL/codec
+module github.com/FPNL/gin-codec
 
 go 1.21
 
